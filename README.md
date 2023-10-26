@@ -16,7 +16,7 @@ python main.py --download
 # Installation
 # 1.Clone the Repository:
  
-  git clone <repository_url>
+  git clone https://github.com/faizan9697/cricket-data-ingest
 
 # 2.Navigate to the Project:
 
